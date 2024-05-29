@@ -1,1 +1,2 @@
-git+https://github.com/FAIRmat-NFDI/nomad-unisyscat-plugin.git@main
+nomad-measurements
+nomad-material-processing
