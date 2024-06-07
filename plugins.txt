@@ -1,4 +1,4 @@
 nomad-measurements
 nomad-material-processing
 git+https://github.com/schumannj/plugin_from_template.git@7e135ad
-git+https://github.com/FAIRmat-NFDI/nomad-unisyscat-plugin@787e1e3340c847b1f64968a7f0b3b037ed1266fd
+git+https://github.com/FAIRmat-NFDI/nomad-unisyscat-plugin.git@787e1e3340c847b1f64968a7f0b3b037ed1266fd
