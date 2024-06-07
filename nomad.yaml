@@ -2,10 +2,9 @@ services:
   api_host: 'localhost'
   api_base_path: '/nomad-oasis'
   
-gui:
-  config:
-    apps:
-      exclude: []
+ui:
+  apps:
+    exclude: []
 
 oasis:
   is_oasis: true
